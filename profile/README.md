@@ -1,4 +1,4 @@
-# DecafAI - Your AI DevOps Engineer
+# DecafAI - Your AI DevOps Engineer | https://decafai.com
 
 <div align="center">
   
@@ -9,16 +9,17 @@
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![Status](https://img.shields.io/badge/Status-Active_Development-green.svg)]()
   [![Community](https://img.shields.io/badge/Join-Community-purple.svg)](https://github.com/decafaihq/decafai/discussions)
+
+  <br>
   
 </div>
-
 ---
 
-## 🚀 What is DecafAI?
+##  What is DecafAI?
 
 DecafAI is your 24/7 AI-powered DevOps engineer that writes Infrastructure as Code, fixes CI/CD pipelines, patches vulnerabilities, and handles infrastructure tasks while you focus on building. It's not another dashboard - it creates actual pull requests, writes real fixes, and delivers working code.
 
-### 🎯 Key Features
+### Key Features
 
 - **🏗️ Infrastructure as Code Writer** - Generates production-ready Terraform modules, Ansible playbooks, and Kubernetes manifests
 - **🔧 CI/CD Pipeline Doctor** - Debugs failed builds, optimizes slow pipelines, and writes GitHub Actions/GitLab CI/Jenkins workflows
@@ -27,7 +28,7 @@ DecafAI is your 24/7 AI-powered DevOps engineer that writes Infrastructure as Co
 - **🐛 Incident Responder** - Investigates issues, finds root causes, and generates fixes when things break
 - **📚 Documentation Generator** - Writes README files, API docs, runbooks, and architecture diagrams
 
-## 💡 How It Works
+## How It Works
 
 DecafAI leverages advanced AI models to understand your infrastructure, analyze problems, and generate solutions. The Community Edition uses **Mixtral-8×7B** as the default model, providing an excellent blend of speed, size, and license freedom for most DevOps tasks.
 
@@ -47,7 +48,7 @@ $ decaf diagnose pod/api-gateway --fix
 🔗 https://github.com/org/repo/pull/247
 ```
 
-### 🧠 AI Model Architecture
+###  AI Model Architecture
 
 **Default Model (CE):** Mixtral-8×7B
 - Fast inference for real-time DevOps tasks
@@ -66,7 +67,7 @@ ai:
 
 Power users and Enterprise deployments can scale reasoning depth by plugging in larger models like Llama-3-70B, DBRX, or Qwen-2-72B for more complex scenarios.
 
-## 🛠️ Deep Integrations
+## Deep Integrations
 
 DecafAI integrates deeply with your existing DevOps stack:
 
@@ -117,7 +118,7 @@ DecafAI integrates deeply with your existing DevOps stack:
 </tr>
 </table>
 
-## 📦 Deployment Options
+## Deployment Options
 
 ### Openssource Edition
 ```bash
@@ -138,7 +139,7 @@ cd decafai
 - ✅ Plug-in support for Llama-3-70B, DBRX, Qwen-2-72B
 
 
-## 🚧 Project Status
+## Project Status
 
 DecafAI is in **active development**. We're building in the open and welcome contributions!
 
@@ -151,7 +152,7 @@ DecafAI is in **active development**. We're building in the open and welcome con
 - [ ] Security vulnerability detection and patching
 - [ ] Documentation generation
 
-## 🤝 Contributing
+## Contributing
 
 We love contributions! Whether you're fixing bugs, adding features, or improving documentation, we'd love to have you as part of the DecafAI community.
 
