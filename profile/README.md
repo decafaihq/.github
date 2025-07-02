@@ -8,7 +8,7 @@
   
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   [![Status](https://img.shields.io/badge/Status-Active_Development-green.svg)]()
-  [![Community](https://img.shields.io/badge/Join-Community-purple.svg)](https://github.com/decafaihq/decafai/discussions)
+  [![Community](https://img.shields.io/badge/Join-Community-purple.svg)](https://github.com/decafaidev/decafai/discussions)
 
   <br>
   
@@ -123,7 +123,7 @@ DecafAI integrates deeply with your existing DevOps stack:
 ### Openssource Edition
 ```bash
 # Quick start (coming soon)
-git clone https://github.com/decafaihq/decafai
+git clone https://github.com/decafaidev/decafai
 cd decafai
 ./install.sh
 ```
@@ -197,7 +197,7 @@ DecafAI handles the toil so you can:
 
 Join our growing community of DevOps engineers automating away the toil:
 
-- **[GitHub Discussions](https://github.com/decafaihq/decafai/discussions)** - Ask questions, share ideas -- Coming Soon !  Email us for now !
+- **[GitHub Discussions](https://github.com/decafaidev/decafai/discussions)** - Ask questions, share ideas -- Coming Soon !  Email us for now !
 
 
 ## 📄 License
@@ -213,6 +213,6 @@ Built with ❤️ by the community
   
 **Stop Fighting Fires. Start Building.**
 
-[Get Started](https://github.com/decafaihq/decafai) • [Documentation](https://docs.decafai.dev) • [Community](https://github.com/decafaihq/decafai/discussions)
+[Get Started](https://github.com/decafaidev/decafai) • [Documentation](https://docs.decafai.dev) • [Community](https://github.com/decafaidev/decafai/discussions)
 
 </div>
