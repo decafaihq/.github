@@ -1,4 +1,4 @@
-# DecafAI - Your AI DevOps Engineer | https://decafai.com
+# DecafAI - Your AI DevOps Engineer | https://decafai.dev
 
 <div align="center">
   
@@ -156,7 +156,7 @@ DecafAI is in **active development**. We're building in the open and welcome con
 
 We love contributions! Whether you're fixing bugs, adding features, or improving documentation, we'd love to have you as part of the DecafAI community.
 
-email us at info@decafai.com 
+email us at hello@decafai.dev
 
 
 
@@ -213,6 +213,6 @@ Built with ❤️ by the community
   
 **Stop Fighting Fires. Start Building.**
 
-[Get Started](https://github.com/decafaihq/decafai) • [Documentation](https://docs.decafai.com) • [Community](https://github.com/decafaihq/decafai/discussions)
+[Get Started](https://github.com/decafaihq/decafai) • [Documentation](https://docs.decafai.dev) • [Community](https://github.com/decafaihq/decafai/discussions)
 
 </div>
